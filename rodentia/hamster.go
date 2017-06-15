@@ -1,5 +1,6 @@
 package rodentia
 
 func HamsterLike() string {
-	return "ʕ òﻌóʔ < We like wheels"
+	var favorit string = "wheels"
+	return "ʕ òﻌóʔ < We like " + favorit + "!"
 }

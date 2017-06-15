@@ -1,5 +1,6 @@
 package rodentia
 
 func BeaverLike() string {
-	return "ʕ ˙ϖ˙ʔ < We like dams"
+	var favorit string = "dams"
+	return "ʕ ˙ϖ˙ʔ < We like " + favorit + "!"
 }
