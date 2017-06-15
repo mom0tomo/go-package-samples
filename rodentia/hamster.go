@@ -1,5 +1,5 @@
 package rodentia
 
 func HamsterLike() string {
-	return "We like wheels"
+	return "ʕ òﻌóʔ < We like wheels"
 }

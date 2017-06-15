@@ -1,5 +1,5 @@
 package rodentia
 
 func GopherLike() string {
-	return "We like tunnels"
+	return "ʕ ◔ϖ◔ʔ < We like tunnels"
 }

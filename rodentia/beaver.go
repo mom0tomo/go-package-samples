@@ -1,5 +1,5 @@
 package rodentia
 
 func BeaverLike() string {
-	return "We like dams"
+	return "ʕ ˙ϖ˙ʔ < We like dams"
 }
